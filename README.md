@@ -1,5 +1,6 @@
 # reputable
 
+git init
 
 git add *
 
